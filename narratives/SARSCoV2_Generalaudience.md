@@ -166,9 +166,9 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
 
 * You can explore the data in more details by clicking on "Explore the data yourself" in the upper right corner.
 * We can recommend more reading if you want to understand more deeply
-  * how SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
-  * how to read phylogenetic trees https://nextstrain.org/narratives/trees-background
-  * what kind of proteins are encoded in the viral genome https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
+  * How SARS-CoV-2 mutates and spreads https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
+  * How to read phylogenetic trees https://nextstrain.org/narratives/trees-background
+  * What kind of proteins are encoded in the viral genome https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html
 
 
 # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region)
