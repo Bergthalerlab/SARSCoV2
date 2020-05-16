@@ -29,7 +29,7 @@ When there are so many [uncertainties](https://www.theatlantic.com/health/archiv
 # CeMM Research Center for Molecular Medicine
 <div width="100%" margin="auto">
 <p>
-<img width="300px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
+<img width="2px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://cemm.at/fileadmin/_processed_/9/8/cemm_E01_002.jpg"/>
 </p>
 <p>
 </p>
