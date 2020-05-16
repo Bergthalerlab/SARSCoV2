@@ -53,7 +53,7 @@ Read more about how coronavirus mutates and spreads: https://www.nytimes.com/int
 ```auspiceMainDisplayMarkdown
 <div width="50%" margin="auto">
 <p>
-<img width="600px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/><figcaption>Image credit: https://www.scientificanimations.com/wiki-images/</figcaption>
+<img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/><figcaption>Image credit: https://www.scientificanimations.com/wiki-images/</figcaption>
 </p>
 <p>
 The virion consists of a long RNA that codes all the information required for its own manufacturing, hidden inside of an oily membrane. This membrane is rich in protein protrusions, such as the characteristic "spikes", here shown in pink, giving the virions a crown-like shape, from which coronaviruses take their name. These spikes mediate the entry of the virus into human cells. 
