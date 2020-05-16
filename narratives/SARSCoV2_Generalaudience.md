@@ -111,7 +111,7 @@ Source of image and further information about how to read phylogenetic trees: ht
 * The tree can be zoomed in by clicking on a branch. Colours indicate the origin of a specific SARS-CoV-2 sample. Unlike in the previous example figure, the circles we see here represent samples not mutations. When hovering your mouse over a circle, sample details will appear.
 
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?c=gt-S_614&d=tree)
+# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?branchLabel=none&c=gt-S_614&d=tree)
 
 * Our preliminary analysis revealed a major branching event of the phylogenetic tree, that occurred already in the early stages of the pandemic, in January 2020.
 
