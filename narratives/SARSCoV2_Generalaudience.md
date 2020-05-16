@@ -17,8 +17,8 @@ We are an interdisciplinary group of scientists from the CeMM Research Centre fo
 \
 CeMM’s mission is to achieve maximum scientific innovation in molecular medicine and improve healthcare. At CeMM, an international and creative team of scientists and medical doctors pursues free-minded basic life science research in a large and vibrant environment of outstanding medical tradition and practice. CeMM operates in a unique mode of super cooperation, connecting biology with medicine, experiments with computation, discovery with translation, and science with society and the arts. The goal of CeMM is to pioneer the science that nurtures the precise, personalized, predictive and preventive medicine of the future.\
 \
-We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
-<br><br>
+We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.\
+\
 When there are so many [uncertainties](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/) around COVID-19, we aim at helping the scientific community to gain a better understanding of the evolution and the spread of SARS-CoV-2, the causative pathogen of COVID-19.
 
 <!-- This is right-side text -->
@@ -41,8 +41,7 @@ When there are so many [uncertainties](https://www.theatlantic.com/health/archiv
 * The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses. This is what viruses are good at: They reprogram our cells to make millions of copies of themselves.
 * The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins the host cell will produce when it translates this almost 30,000-“letters” long code.
 * New copies of the virus are just like the original, the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how the virus spreads.
-
-
+\
 Read more about how coronavirus mutates and spreads: https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html
 
 
