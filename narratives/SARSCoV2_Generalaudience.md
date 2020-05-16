@@ -13,10 +13,10 @@ SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first d
 
 # [Who are we and what do we do?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000)
 
-We are an interdisciplinary group of scientists from the CeMM Research Centre for Molecular Medicine of the Austrian Academy of Sciences in Vienna, Austria.
-<br><br>
-CeMM’s mission is to achieve maximum scientific innovation in molecular medicine and improve healthcare. At CeMM, an international and creative team of scientists and medical doctors pursues free-minded basic life science research in a large and vibrant environment of outstanding medical tradition and practice. CeMM operates in a unique mode of super cooperation, connecting biology with medicine, experiments with computation, discovery with translation, and science with society and the arts. The goal of CeMM is to pioneer the science that nurtures the precise, personalized, predictive and preventive medicine of the future.
-<br><br>
+We are an interdisciplinary group of scientists from the CeMM Research Centre for Molecular Medicine of the Austrian Academy of Sciences in Vienna, Austria.\
+\
+CeMM’s mission is to achieve maximum scientific innovation in molecular medicine and improve healthcare. At CeMM, an international and creative team of scientists and medical doctors pursues free-minded basic life science research in a large and vibrant environment of outstanding medical tradition and practice. CeMM operates in a unique mode of super cooperation, connecting biology with medicine, experiments with computation, discovery with translation, and science with society and the arts. The goal of CeMM is to pioneer the science that nurtures the precise, personalized, predictive and preventive medicine of the future.\
+\
 We at CeMM are dedicated to better understand diseases such as cancer, immune disorders or COVID-19.
 <br><br>
 When there are so many [uncertainties](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/) around COVID-19, we aim at helping the scientific community to gain a better understanding of the evolution and the spread of SARS-CoV-2, the causative pathogen of COVID-19.
