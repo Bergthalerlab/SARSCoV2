@@ -7,7 +7,7 @@ date: "May 2020"
 dataset: "https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=map&r=region&c=region"
 abstract: "The Mutational Dynamics of SARS-CoV-2 in Austria project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)]. So far, viral genomes have been isolated from 237 Austrian COVID-19 patients, sequenced and integrated into a global map of SARS-CoV-2 mutations. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria and the Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019 [3](https://doi.org/10.1038/s41586-020-2008-3). So far, viral genomes have been isolated from 237 Austrian COVID-19 patients, sequenced and integrated into a global map of SARS-CoV-2 mutations. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria and the Austrian viral genome data will be integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
@@ -100,7 +100,7 @@ Source of image and further information about how to read phylogenetic trees: ht
 
 # [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree&f_country=Austria)
 
-* The first cases of COVID-19 were described in December 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)]. Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
+* The first cases of COVID-19 were described in December 2019[3](https://doi.org/10.1038/s41586-020-2008-3). Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
 
 * Sequencing the genomes of viruses isolated from infected patients helps us to understand the evolution of the virus. Moreover, mutations in the viral genome that occur during the spread of SARS-CoV-2 can be used like barcodes to identify connections between different infection clusters and follow how the pathogen spreads from country to country.
 
