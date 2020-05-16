@@ -73,7 +73,7 @@ The virion consists of a long RNA that codes all the information required for it
 
 ```auspiceMainDisplayMarkdown
 ## Phylogenetic trees can capture accumulating mutations
-<div width="50%" margin="auto">
+<div width="50%">
 <p>
 <img width="700px" alt="Cartoon of phylogenetic tree and corresponding alignment, with samples labelled A-E" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
