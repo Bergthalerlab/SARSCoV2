@@ -51,7 +51,7 @@ Read more about how coronavirus mutates and spreads: https://www.nytimes.com/int
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-<div width="50%" margin="auto">
+<div width="50%">
 <p>
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/><figcaption>Image credit: https://www.scientificanimations.com/wiki-images/</figcaption>
 </p>
@@ -73,7 +73,7 @@ The virion consists of a long RNA that codes all the information required for it
 
 ```auspiceMainDisplayMarkdown
 ## Phylogenetic trees can capture accumulating mutations
-<div width="50%">
+<div width="60%">
 <p>
 <img width="700px" alt="Cartoon of phylogenetic tree and corresponding alignment, with samples labelled A-E" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
