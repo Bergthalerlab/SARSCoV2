@@ -98,7 +98,7 @@ Source of image and further information about how to read phylogenetic trees: ht
 ```
 
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree&f_country=Austria)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000?d=tree&f_country=Austria&branchLabel=none&)
 
 * The first cases of COVID-19 were described in December 2019[3](https://doi.org/10.1038/s41586-020-2008-3). Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
 
