@@ -51,7 +51,7 @@ Read more about how coronavirus mutates and spreads: https://www.nytimes.com/int
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-<div width="50%" margin="auto">
+<div width="100%" margin="auto">
 <p>
 <img width="500px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/><figcaption>Image credit: https://www.scientificanimations.com/wiki-images/</figcaption>
 </p>
