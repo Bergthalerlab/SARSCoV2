@@ -4,14 +4,14 @@ authors: "Jakob-Wendelin Genger, Zsofia Keszei, Laura Alvarez, Andreas Bergthale
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences"
 date: "May 2020"
-dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?d=map&r=region&c=region"
+dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "The project **Mutational Dynamics of SARS-CoV-2 in Austria** was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
 The aim of this project is to sequence 1,000 viral genomes obtained from Austrian patient-derived samples, in order to learn more about the molecular understanding of the COVID-19 pandemic and the causative pathogen. The project results will integrate Austrian viral genome data into a global map of SARS-CoV-2 mutations, which will help decipher the mutational dynamics underlying the COVID-19 pandemic.
 "
 ---
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
 
 * The first cases of COVID-19 were described in December 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)]. Since then, SARS-CoV-2 spread first to different provinces in China and could eventually establish outbreaks in countries all over the world.
 
@@ -19,7 +19,7 @@ The aim of this project is to sequence 1,000 viral genomes obtained from Austria
 
 * To this day, CeMM has sequenced viral genomes from 237 Austrian patients. In the following analysis, we compared these samples with 8000 viral genomes from all over the world.
 
-# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?c=gt-S_614&d=tree,entropy)
+# [Phylogenetic analysis reveals an early branching event in SARS-CoV-2 evolution](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?c=gt-S_614&d=tree,entropy)
 
 * The analysis of mutational signatures in the SARS-CoV-2 genome revealed a major branch point in the SARS-CoV-2 phylogeny.
 * Based on our sequence analysis, we conclude that this branching event occurred already in the early stages of the pandemic in January 2020 and bases on a mutation in codon 614 of the S protein.
@@ -27,30 +27,30 @@ The aim of this project is to sequence 1,000 viral genomes obtained from Austria
 
 <figure class="image"><img src="https://cemm.at/fileadmin/_processed_/8/b/csm_Illustration-SARS-CoV-2_2_Bobby-Rajesh-Malhotra_CeMM_45a7e025a0.png" alt="SARS CoV-2 docking the ACE2 receptor in human cells."><figcaption>SARS CoV-2 docking the ACE2 receptor in human cells. © Bobby Rajesh Malhotra / CeMM</figcaption>
 
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
+# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?c=gt-S_614&d=map&dmax=2020-01-29&f_region=Europe&label=clade:A2&p=full)
 
 * Thanks to SARS-CoV-2 sequencing projects all over the world, we can trace the S D614G back to its origin and learn how the virus spreads.
 * Our preliminary data suggest that the first two occurrences of the D614G mutation in the United Kingdom and Germany (on 22 and 28 January) were connected to transmissions from China.
 * However, there might have been other introduction events to Europe we do not know about due to the lack of available sequences.
 
 
-# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
+# [The S D614G mutation is dominant in the early European infection clusters](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-04-24,0,0,15000&c=gt-S_614&d=map&f_region=Europe)
 
 * We estimate that introduction events of the virus bearing the S D614G mutation quickly led to outbreaks in countries such as Austria, Belgium, Denmark, France, Italy, Luxembourg, Spain and The Netherlands.
 * In the following weeks, viruses with the S D614G mutation appeared all over Europe and established as the dominant strains in many European countries.
 * Moreover, sequence analysis suggests further transmission of this strain to North America and subsequent reintroduction events from the USA to many European countries.
 
-# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?c=gt-S_614&f_country=Austria&d=tree)
+# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?c=gt-S_614&f_country=Austria&d=tree)
 
 This observation is in line with the results from our mutational analysis of SARS-CoV-2 strains from Austrian patients. Most of the patient samples from Austria show the same S D614G mutation shared by many other European strains.
 
-# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?f_country=Austria&d=map&r=location)
+# [Connection of local outbreaks in Austria and other European outbreaks](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?f_country=Austria&d=map&r=location)
 
 * A reconstruction of the SARS-CoV-2 phylogeny based on our sequencing data allowed us to identify connections with outbreaks in other countries.
 * Based on this dataset, isolates from Austria show close connection with outbreaks in many countries in Europe such as the United Kingdom, Denmark, Iceland, The Netherlands or Spain, as well as the United States and Australia.
 * However, the direction of the transmission cannot be predicted with certainty, as the virus might spread undetected before transmission to another country where the viral genome is sequenced. In such case, it appears to originate from the country where sequencing occurred.
 
-# [Outlook: Focus on Austria](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?d=tree,map&f_country=Austria&r=division)
+# [Outlook: Focus on Austria](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree,map&f_country=Austria&r=division)
 
 Together with its collaborators all over Austria, CeMM will keep sequencing SARS-CoV-2 isolates from Austrian patients in order to understand how the virus spread to, within and from Austria and in order to provide the research community with insights into the mutational dynamics of SARS-CoV-2.
 
@@ -60,7 +60,7 @@ Together with its collaborators all over Austria, CeMM will keep sequencing SARS
 We are grateful to our collaborators at the University of Veterinary Medicine, the Center for Virology of the Medical University of Vienna, the Institute of Virology and the University Hospital for Internal Medicine II of the Medical University of Innsbruck, and the Austrian Agency for Health and Food Safety (AGES).
 
 
-# [Explore the data yourself](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?d=map&r=region&c=region)
+# [Explore the data yourself](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
 * By clicking on "Explore the data yourself" in the upper right corner of your screen, you can further examine the dataset.
 
@@ -71,7 +71,7 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
   * Explore more recent narratives directly from https://nextstrain.org/, such as the latest global COVID-19 analysis: https://nextstrain.org/ncov/global
   * How the S D614G mutation might effect COVID-19 https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239/
 
-# [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?d=map&r=region&c=region)
+# [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 * We gratefully appreciate the community resources and tools provided by the [Nextstrain project](https://nextstrain.org/)[1] which helped us to conduct our phylogenetic analysis and share our results with you.
 * We also thank the [GISAID initiative](https://www.gisaid.org/)[2] for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
 * We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
@@ -83,7 +83,7 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
   * AGES (Austrian Agency for Health and Food Safety): Peter Hufnagl, Daniela Schmid
 
 
-# [Citations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/Release19052020?d=map&r=region&c=region)
+# [Citations](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
 
