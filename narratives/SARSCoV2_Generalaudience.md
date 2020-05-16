@@ -42,7 +42,7 @@ When there are so many [uncertainties](https://www.theatlantic.com/health/archiv
 # [The SARS-CoV-2 virion: How do mutations appear in the viral genome?](https://nextstrain.org/community/jgenger/nCoV-SARS-2-CeMM/subsampled/8000)
 
 * The virion of SARS-CoV-2 coronavirus is an oily bubble that contains the genome of the virus – a long code containing information on how to make new viruses. This is what viruses are good at: They reprogram our cells to make millions of copies of themselves.
-* •	The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins the host cell will produce when it translates this almost 30,000-“letters” long code.
+* The code is stored in the form of RNA, and the sequence of four nucleotides represented by the letters _A_, _C_, _G_ and _U_ determine what kind of proteins the host cell will produce when it translates this almost 30,000-“letters” long code.
 * New copies of the virus are just like the original, the code packed in the oily bubble. However, when the cell makes a copy of this long code, it will inevitably make "typos". These are called mutations, and most of them do not change the proteins of the virus. Instead, they serve as "signatures" for us to follow how the virus spreads.
 
 
