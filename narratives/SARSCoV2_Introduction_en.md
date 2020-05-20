@@ -118,7 +118,7 @@ Source of image and further reading:
 # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
 
 * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> which helped us to conduct our phylogenetic analysis and share our results with you.
-* We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> for providing access to 8343 SARS-CoV-2 sequences that we could use for this analysis.
+* We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> for providing access to thousands of SARS-CoV-2 sequences that we could use for this analysis.
 * We would like to acknowledge our scientific collaborators from the Center for Virology of the Medical University of Vienna, the Institute of Virology of the Medical University of Innsbruck and the Austrian Agency for Health and Food Safety, who provided us access to patient samples, and the Vienna Science and Technology Fund (WWTF) for providing funding for this project.
   * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaco, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
   * University of Veterinary Medicine: Lukas Endler
