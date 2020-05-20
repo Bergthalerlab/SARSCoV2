@@ -97,7 +97,7 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">How SARS-CoV-2 mutates and spreads</a>
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
   * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">What kind of proteins are encoded in the viral genome</a>
-  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Does the S D614G effect on the function of the S protein or on its binding to ACE2</a>
+  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Does the S D614G effect the function of the S protein or on its binding to ACE2</a>
 
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)

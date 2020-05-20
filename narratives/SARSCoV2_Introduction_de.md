@@ -5,7 +5,7 @@ authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Forschungszentrum für Molekulare Medizin der Österreichischen Akademie der Wissenschaften"
 date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
-abstract: "Das Projekt **Mutationsdynamik von SARS-CoV-2 in Österreich** wurde am 27. März 2020 auf Initiative von CeMM in enger Zusammenarbeit mit der Medizinischen Universität Wien ins Leben gerufen.
+abstract: "Das Projekt [Mutationsdynamik von SARS-CoV-2 in Österreich](https://cemm.at/research/sars-cov-2-at/about/) wurde am 27. März 2020 auf Initiative von CeMM in enger Zusammenarbeit mit der Medizinischen Universität Wien ins Leben gerufen.
 
 SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019 [3] erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration derviralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit  von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen."
 
