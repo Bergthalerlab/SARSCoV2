@@ -39,7 +39,7 @@ Bild credit: Iris Ranzinger / CeMM
 
 ```
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none&)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-05-08,0,0,15000&d=map&r=region&c=region)
 
 * Die ersten COVID-19-Fälle wurden im Dezember 2019 beschrieben <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Seitdem hat sich der Erreger SARS-CoV-2 zunächst auf andere Provinzen Chinas ausgebreitet und schließlich zu Ausbrüchen in allen Ländern der Welt geführt.
 
