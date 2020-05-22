@@ -7,7 +7,7 @@ date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "Das Projekt [Mutationsdynamik von SARS-CoV-2 in Österreich](https://cemm.at/research/sars-cov-2-at/about/) wurde am 27. März 2020 auf Initiative von CeMM in enger Zusammenarbeit mit der Medizinischen Universität Wien ins Leben gerufen.
 
-SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019 [3](https://doi.org/10.1038/s41586-020-2008-3) erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration der viralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen.\
+SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019 [3](https://doi.org/10.1038/s41586-020-2008-3) erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration der viralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen.
 
 Für eine Einführung zu SARS-CoV-2 und phylogenetische Bäume, klicken Sie [hier](https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_de)."
 
@@ -38,6 +38,14 @@ Bild credit: Iris Ranzinger / CeMM
 </div>
 
 ```
+
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none&)
+
+* Die ersten COVID-19-Fälle wurden im Dezember 2019 beschrieben <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Seitdem hat sich der Erreger SARS-CoV-2 zunächst auf andere Provinzen Chinas ausgebreitet und schließlich zu Ausbrüchen in allen Ländern der Welt geführt.
+
+*	Die Sequenzierung der Virusgenome aus infizierten PatientInnen hilft uns, die Evolution des Virus zu verstehen. Außerdem können Mutationen im viralen Genom, zu denen es während der Ausbreitung von SARS-CoV-2 kommt, wie Barcodes verwendet werden, um Verbindungen zwischen den verschiedenen Infektionsclustern zu ermitteln und zu verfolgen, wie sich der Erreger von Land zu Land ausbreitet.
+
+*	Bis dato hat CeMM die viralen Genome von 237 PatientInnen sequenziert. Diese sind nun in der weltweiten Karte von SARS-CoV-2-Mutationen (phylogenetischer Baum) integriert. In der folgenden Analyse haben wir diese Sequenzdaten dieser Proben mit über 8.000 Proben aus der ganzen Welt verglichen.
 
 
 # [Phylogenetische Analyse zeigt ein frühes Verzweigungsereignis in der SARS-CoV-2-Evolution](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?branchLabel=none&c=gt-S_614&d=tree)
