@@ -77,7 +77,7 @@ Diese Beobachtung stimmt mit den Ergebnissen unserer Mutationsanalyse der SARS-C
 # [Zusammenhang zwischen lokalen Ausbrüchen in Österreich und anderen europäischen Ausbrüchen](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?f_country=Austria&d=map&r=location)
 
 * Eine Rekonstruktion der Abstammungsgeschichte des SARS-CoV-2 basierend auf unseren Sequenzierungsdaten ermöglichte die Ermittlung von Zusammenhängen mit Ausbrüchen in anderen Ländern.
-* BAusgehend von diesem Datensatz deuten Isolate aus Österreich auf einen engen Zusammenhang mit Ausbrüchen in vielen Ländern Europas, wie zum Beispiel Großbritannien, Dänemark, Island, die Niederlande oder Spanien sowie auch mit der USA und Australien hin.
+* Ausgehend von diesem Datensatz deuten Isolate aus Österreich auf einen engen Zusammenhang mit Ausbrüchen in vielen Ländern Europas, wie zum Beispiel Großbritannien, Dänemark, Island, die Niederlande oder Spanien sowie auch mit der USA und Australien hin.
 * Über die Übertragungsrichtung ist jedoch noch keine gesicherte Vorhersage möglich, da sich das Virus bereits unbemerkt ausbreiten könnte, bevor es in ein anderes Land übertragen wird, in welchem das virale Genom sequenziert wird. In einem solchen Fall scheint es aus dem Land zu stammen, in dem die Sequenzierung vorgenommen wurde.
 
 
