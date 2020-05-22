@@ -13,7 +13,7 @@ The aim of this project is to sequence 1,000 viral genomes obtained from Austria
 Read more about CeMM, Research Center for Molecular Medicine of the Austrian Academy of Sciences [here](https://cemm.at/en/about/)."
 ---
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-04-24,0,0,15000&d=map&r=region&c=region)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-05-08,0,0,15000&d=map&r=region&c=region)
 
 * The first cases of COVID-19 were described in December 2019 <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Since then, SARS-CoV-2 spread first to different provinces in China and eventually established outbreaks in countries all over the world.
 
