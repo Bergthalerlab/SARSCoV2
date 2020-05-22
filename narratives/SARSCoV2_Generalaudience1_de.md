@@ -103,9 +103,9 @@ Wir sind unseren KooperationspartnerInnen an der Veterinärmedizinischen Univers
 * Sie können die Daten ausführlicher erforschen, in dem sie in der rechten oberen Bildschirmecke auf "Explore the data on your own" klicken.
 * Wenn Sie Ihr Verständnis zu diesem Thema vertiefen wollen, empfehlen wir die folgenden Links:
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">Wie SARS-CoV-2 mutiert und sich ausbreitet?</a>
-  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Wie man phylogenetische Stammbäume liest?</a>
-  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">Welche Art von Proteinen sind im viralen Genom codiert?</a>
-  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Wirkt sich die S D614G Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 aus?</a>
+  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Wie man phylogenetische Stammbäume liest</a>
+  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">Welche Art von Proteinen sind im viralen Genom codiert</a>
+  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Wirkt sich die S D614G Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 aus</a>
 
 
   # [Credits & Danksagungen](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
