@@ -7,7 +7,7 @@ date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "Das Projekt [Mutationsdynamik von SARS-CoV-2 in Österreich](https://cemm.at/research/sars-cov-2-at/about/) wurde am 27. März 2020 auf Initiative von CeMM in enger Zusammenarbeit mit der Medizinischen Universität Wien ins Leben gerufen.
 
-SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)] erstmals beschrieben wurde. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration derviralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Labore aus der ganzen Welt haben mit von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen."
+SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019 [3] erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration derviralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit  von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen."
 
 ---
 
@@ -90,7 +90,7 @@ Bildquelle und weitere Informationen darüber
 
 ```
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none&)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?m=div)
 
 * Die ersten COVID-19-Fälle wurden im Dezember 2019 beschrieben <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Seitdem hat sich der Erreger SARS-CoV-2 zunächst auf andere Provinzen Chinas ausgebreitet und schließlich zu Ausbrüchen in allen Ländern der Welt geführt.
 

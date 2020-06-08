@@ -7,7 +7,7 @@ date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "The [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/) project was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
+SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country."
 
 ---
 
@@ -92,7 +92,7 @@ Source of image and further reading:
 
 ```
 
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=tree&f_country=Austria&branchLabel=none&)
+# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?m=div)
 
 * The first cases of COVID-19 were described in December 2019 <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Since then, the causative pathogen, SARS-CoV-2, spread first to different provinces in China and eventually established outbreaks in countries all over the world.
 
