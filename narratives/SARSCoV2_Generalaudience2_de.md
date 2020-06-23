@@ -6,7 +6,7 @@ affiliations: "CeMM Forschungszentrum für Molekulare Medizin der Österreichisc
 date: "June 22 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "
-SSARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutationsdynamik von SARS-CoV-2 in Österreich</a> hat CeMM in Zusammenarbeit mit der Medizinischen Universität Wien bislang 318 virale Genome aus österreichischen COVID-19 PatientInnen sequenziert. Die Genomdaten wurden in eine Weltkarte von SARS-CoV-2-Mutationen integriert.
+SARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutationsdynamik von SARS-CoV-2 in Österreich</a> hat CeMM in Zusammenarbeit mit der Medizinischen Universität Wien bislang 318 virale Genome aus österreichischen COVID-19 PatientInnen sequenziert. Die Genomdaten wurden in eine Weltkarte von SARS-CoV-2-Mutationen integriert.
 In diesem Narrativ wollen wir uns darauf konzentrieren, wie häufig im SARS-CoV-2-Genom Mutationen auftreten und eine Mutation sichtbar machen, die vermutlich in Österreich entstanden ist."
 ---
 
