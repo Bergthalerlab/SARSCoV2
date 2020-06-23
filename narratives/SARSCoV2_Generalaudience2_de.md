@@ -6,7 +6,7 @@ affiliations: "CeMM Forschungszentrum für Molekulare Medizin der Österreichisc
 date: "June 22 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "
-SARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutationsdynamik von SARS-CoV-2 in Österreich</a> hat CeMM in Zusammenarbeit mit der Medizinischen Universität Wien bislang 318 virale Genome aus österreichischen COVID-19 PatientInnen sequenziert. Die Genomdaten wurden in eine Weltkarte von SARS-CoV-2-Mutationen integriert.
+SSARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutationsdynamik von SARS-CoV-2 in Österreich</a> hat CeMM in Zusammenarbeit mit der Medizinischen Universität Wien bislang 318 virale Genome aus österreichischen COVID-19 PatientInnen sequenziert. Die Genomdaten wurden in eine Weltkarte von SARS-CoV-2-Mutationen integriert.
 In diesem Narrativ wollen wir uns darauf konzentrieren, wie häufig im SARS-CoV-2-Genom Mutationen auftreten und eine Mutation sichtbar machen, die vermutlich in Österreich entstanden ist."
 ---
 
@@ -36,12 +36,15 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Das Beispiel zeigt in Afrika isolierte virale Genome. Zur Erinnerung: Immer wenn aus einer vertikalen Linie (blau) ein neuer Zweig (gelb) hervortritt, entspricht dies einer neuen Mutation. Fahren Sie mit Ihrer Maus über den Zweig, um zu sehen, welches Nukleotid im Code mutiert ist.
 
+
+# [Mutationen helfen bei der Erstellung phylogenetischen Bäume (Forts.)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=gt-nuc_23731&d=tree&f_region=Africa&label=clade:20B&m=div&p=full)
+
 * Wir sehen, dass die Genome UG008 und UG014 aus Uganda näher miteinander verwandt sind als mit 1565_S13 aus Ghana. Nun können wir spekulieren, dass die zur Entstehung des gelben Zweiges führende Mutation in Uganda stattgefunden hat.
 
 * Allerdings ist genauso denkbar, dass diese Mutation in einem anderen Land eingetreten ist, wo sie nie sequenziert, aber von wo aus sie mehrfach nach Uganda eingeschleppt wurde.
 
 
-# [Mutationsrate von SARS-CoV-2 im Vergleich zu anderen Viren](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=tree&l=clock&p=full)
+# [Mutationsrate von SARS-CoV-2 im Vergleich](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=tree&l=clock&p=full)
 
 * Wenn wir die Sequenzen vieler viraler Genome analysieren und sehen, wie sich mit der Zeit Mutationen anhäufen, können wir daran abschätzen, wie rasch diese auftreten.
 
@@ -54,7 +57,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 * Andere Coronaviren wie SARS<a href="https://doi.org/10.1186/1471-2148-4-21" target="_ blank">[4]</a> und MERS<a href="https://doi.org/10.1128/mbio.01062-13" target="_ blank">[5]</a> mutieren in etwa demselben, während sich Influenzaviren, mit einer geschätzten Rate von 2,3 Mutationen pro 1,000 Nukleotiden im Jahr[6]</a>, rascher verändern.
 
 
-# [SSARS-CoV-2-Genome aus den Isolaten österreichischer PatientInnen](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
+# [SARS-CoV-2-Genome aus den Isolaten österreichischer PatientInnen](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&d=tree&f_country=Austria&m=div&p=full)
 
 * Seit der Veröffentlichung des ersten sequenzierten SARS-CoV-2-Genoms im Januar 2020<a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[7]</a>, wurden zahlreiche neue Viruslinien entdeckt, die im Vergleich zur Originalsequenz, also der "Baumwurzel", Mutationen enthalten.
 
@@ -102,7 +105,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 <p>
 <p>
-<font size="5">Besuchen Sie die <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website,</a>um auch unsere anderen Narrative zu erkunden.</font>
+<font size="5">Besuchen Sie die <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website,</a> um auch unsere anderen Narrative zu erkunden.</font>
 
 
   # [Credits & Danksagungen](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
