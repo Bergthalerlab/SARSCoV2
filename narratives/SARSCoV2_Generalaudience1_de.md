@@ -7,7 +7,8 @@ date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "Das Projekt [Mutationsdynamik von SARS-CoV-2 in Österreich](https://cemm.at/research/sars-cov-2-at/about/) wurde am 27. März 2020 auf Initiative von CeMM in enger Zusammenarbeit mit der Medizinischen Universität Wien ins Leben gerufen.
 
-SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)] erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration der viralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen.
+SARS-CoV-2 ist der Coronavirus, der die neue Krankheit COVID-19 verursacht, die im Dezember 2019 [3] erstmals beschrieben wurde. Bis dato wurden virale Genome aus 237 COVID-19 PatientInnen in Österreich isoliert, sequenziert und in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Ziel dieses Projekts ist die Sequenzierung von 1.000 in Österreich isolierten SARS-CoV-2-Genomen und die Integration derviralen Genomdaten in eine weltweite Karte von SARS-CoV-2-Mutationen. Labore aus der ganzen Welt haben mit  von PatientInnen erhobenen Daten zu dieser Karte beigetragen. Diese gemeinsamen Anstrengungen sollen dabei helfen, mehr über die Evolution von SARS-CoV-2 sowie über die Übertragungswege dieses Erregers von Land zu Land zu lernen.
+
 
 Für eine Einführung zu SARS-CoV-2 und phylogenetische Bäume, klicken Sie [hier](https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_de)."
 
@@ -38,14 +39,6 @@ Bild credit: Iris Ranzinger / CeMM
 </div>
 
 ```
-
-# [Tracking SARS-CoV-2](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?animate=2019-12-19,2020-05-08,0,0,15000&d=map&r=region&c=region)
-
-* Die ersten COVID-19-Fälle wurden im Dezember 2019 beschrieben <a href="https://doi.org/10.1038/s41586-020-2008-3" target="_ blank">[3]</a>. Seitdem hat sich der Erreger SARS-CoV-2 zunächst auf andere Provinzen Chinas ausgebreitet und schließlich zu Ausbrüchen in allen Ländern der Welt geführt.
-
-*	Die Sequenzierung der Virusgenome aus infizierten PatientInnen hilft uns, die Evolution des Virus zu verstehen. Außerdem können Mutationen im viralen Genom, zu denen es während der Ausbreitung von SARS-CoV-2 kommt, wie Barcodes verwendet werden, um Verbindungen zwischen den verschiedenen Infektionsclustern zu ermitteln und zu verfolgen, wie sich der Erreger von Land zu Land ausbreitet.
-
-*	Bis dato hat CeMM die viralen Genome von 237 PatientInnen sequenziert. Diese sind nun in der weltweiten Karte von SARS-CoV-2-Mutationen (phylogenetischer Baum) integriert. In der folgenden Analyse haben wir diese Sequenzdaten dieser Proben mit über 8.000 Proben aus der ganzen Welt verglichen.
 
 
 # [Phylogenetische Analyse zeigt ein frühes Verzweigungsereignis in der SARS-CoV-2-Evolution](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?branchLabel=none&c=gt-S_614&d=tree)
@@ -85,7 +78,7 @@ Diese Beobachtung stimmt mit den Ergebnissen unserer Mutationsanalyse der SARS-C
 # [Zusammenhang zwischen lokalen Ausbrüchen in Österreich und anderen europäischen Ausbrüchen](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?f_country=Austria&d=map&r=location)
 
 * Eine Rekonstruktion der Abstammungsgeschichte des SARS-CoV-2 basierend auf unseren Sequenzierungsdaten ermöglichte die Ermittlung von Zusammenhängen mit Ausbrüchen in anderen Ländern.
-* Ausgehend von diesem Datensatz deuten Isolate aus Österreich auf einen engen Zusammenhang mit Ausbrüchen in vielen Ländern Europas, wie zum Beispiel Großbritannien, Dänemark, Island, die Niederlande oder Spanien sowie auch mit der USA und Australien hin.
+* BAusgehend von diesem Datensatz deuten Isolate aus Österreich auf einen engen Zusammenhang mit Ausbrüchen in vielen Ländern Europas, wie zum Beispiel Großbritannien, Dänemark, Island, die Niederlande oder Spanien sowie auch mit der USA und Australien hin.
 * Über die Übertragungsrichtung ist jedoch noch keine gesicherte Vorhersage möglich, da sich das Virus bereits unbemerkt ausbreiten könnte, bevor es in ein anderes Land übertragen wird, in welchem das virale Genom sequenziert wird. In einem solchen Fall scheint es aus dem Land zu stammen, in dem die Sequenzierung vorgenommen wurde.
 
 
@@ -103,9 +96,14 @@ Wir sind unseren KooperationspartnerInnen an der Veterinärmedizinischen Univers
 * Sie können die Daten ausführlicher erforschen, in dem sie in der rechten oberen Bildschirmecke auf "Explore the data on your own" klicken.
 * Wenn Sie Ihr Verständnis zu diesem Thema vertiefen wollen, empfehlen wir die folgenden Links:
   * <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html" target="_ blank">Wie SARS-CoV-2 mutiert und sich ausbreitet?</a>
-  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Wie man phylogenetische Stammbäume liest</a>
-  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">Welche Art von Proteinen sind im viralen Genom codiert</a>
-  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Wirkt sich die S D614G Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 aus</a>
+  * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">Wie man phylogenetische Stammbäume liest?</a>
+  * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">Welche Art von Proteinen sind im viralen Genom codiert?</a>
+  * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Wirkt sich die S D614G Mutation auf die Funktion des S-Proteins oder auf seine Bindung an ACE2 aus?</a>
+
+<p>
+<p>
+<font size="5">Besuchen Sie die <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website,</a> um auch unsere anderen Narrative zu erkunden.</font>
+
 
 
   # [Credits & Danksagungen](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)

@@ -7,7 +7,7 @@ date: "May 21 2020"
 dataset: "https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region"
 abstract: "The project [Mutational Dynamics of SARS-CoV-2 in Austria](https://cemm.at/research/sars-cov-2-at/about/) was launched on 27 March 2020 by CeMM in close collaboration with the Medical University of Vienna.
 
-SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[[3](https://doi.org/10.1038/s41586-020-2008-3)]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country.
+SARS-CoV-2 is the coronavirus causing COVID-19, the new disease that was first described in December 2019[3]. The aim of this project is to sequence 1,000 SARS-CoV-2 genomes isolated in Austria. So far, viral genomes have been isolated from 237 COVID-19 patients in Austria, sequenced and integrated into a global map of SARS-CoV-2 mutations. Laboratories from all around the world have contributed to this map by submitting data derived from local patients. This collaborative effort will help us learn more about the evolution of SARS-CoV-2, as well as the route of this pathogen from country to country.
 
 
 For an introduction to SARS-CoV-2 and phylogenetic trees, check this [link](https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_en)."
@@ -98,6 +98,11 @@ We are grateful to our collaborators at the University of Veterinary Medicine, t
   * <a href="https://nextstrain.org/narratives/trees-background" target="_ blank">How to read phylogenetic trees</a>
   * <a href="https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html" target="_ blank">What kind of proteins are encoded in the viral genome</a>
   * <a href="https://www.theatlantic.com/health/archive/2020/05/coronavirus-strains-transmissible/611239" target="_ blank">Does the S D614G effect the function of the S protein or on its binding to ACE2</a>
+
+<p>
+<p>
+<font size="5">Explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
+
 
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/bergthalerlab/SARSCoV2/NextstrainAustria?d=map&r=region&c=region)
