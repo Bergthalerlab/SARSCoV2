@@ -1,6 +1,6 @@
 ---
 title: Mutationen im Genom des SARS-CoV-2-Coronavirus
-authors: "Zsofia Keszei, Jacob-Wendelin Genger, Henrique Colaço, Laura Alvarez, Andreas Bergthaler"
+authors: "Zsofia Keszei, Jakob-Wendelin Genger, Henrique Colaço, Laura Alvarez, Andreas Bergthaler"
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Forschungszentrum für Molekulare Medizin der Österreichischen Akademie der Wissenschaften"
 date: "June 22 2020"
