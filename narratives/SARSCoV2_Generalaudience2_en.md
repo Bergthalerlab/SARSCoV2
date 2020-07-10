@@ -6,7 +6,7 @@ affiliations: "CeMM Research Center for Molecular Medicine of the Austrian Acade
 date: "June 11 2020"
 dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
 abstract: "
-SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-10 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
+SARS-CoV-2 is the coronavirus causing COVID-19. Under the project <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutational Dynamics of SARS-CoV-2 in Austria</a>, CeMM, in collaboration with the Medical University of Vienna has so far sequenced 305 viral genomes isolated from COVID-19 patients in Austria. The genomic data has been integrated into a global map of SARS-CoV-2 mutations.
 In this narrative, we will concentrate on how often mutations appear in the SARS-CoV-2 genome and show a mutation that likely emerged in Austria."
 
 ---
@@ -119,11 +119,11 @@ Image credit: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
-1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
+1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics. 2018;34(23):4121-4123.
 
-2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
+2. Shu, Y., and McCauley, J. [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Euro Surveill. 2017;22(13):30494.
 
-3. van Dorp, L. et al.  Infect. Genet. Evol. 104351 (2020) [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
+3. van Dorp, L. et al.  Infect. Genet. Evol. [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
 
 4. Zhao Z, Li H, Wu X, et al. [Moderate mutation rate in the SARS coronavirus genome and its implications](https://doi.org/10.1186/1471-2148-4-21) BMC Evol Biol. 2004;4:21.
 

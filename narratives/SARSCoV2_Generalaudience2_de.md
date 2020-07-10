@@ -122,11 +122,11 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Zitate](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
-1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics 2018
+1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics. 2018;34(23):4121-4123.
 
-2. Shu, Y., and McCauley, J. (2017). [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Eurosurveillance 22, 2–4.
+2. Shu, Y., and McCauley, J. [GISAID: Global initiative on sharing all influenza data – from vision to reality](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2017.22.13.30494) Euro Surveill. 2017;22(13):30494.
 
-3. van Dorp, L. et al.  Infect. Genet. Evol. 104351 (2020) [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
+3. van Dorp, L. et al.  Infect. Genet. Evol. [Emergence of genomic diversity and recurrent mutations in SARS-CoV-2](https://doi.org/10.1016/j.meegid.2020.104351), Infect Genet Evol. 2020;83:104351
 
 4. Zhao Z, Li H, Wu X, et al. [Moderate mutation rate in the SARS coronavirus genome and its implications](https://doi.org/10.1186/1471-2148-4-21) BMC Evol Biol. 2004;4:21.
 
