@@ -70,7 +70,7 @@ Image credit: <a href="https://www.krisp.org.za/news.php?id=421" target="_ blank
 * For instance, how the patient CeMM0187 caught the virus was unclear. Now sequencing data shows a close connection of this sample to the patients who attended the event linked to cluster "AL".
 
 
-# [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
+# [Why is it important to know the source of infection?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
 
 * In Austria, approximately half of the COVID-19 cases were successfully assigned to a cluster.<a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
 
@@ -100,7 +100,7 @@ Image source: KwaZulu‐Natal Research Innovation and Sequencing Platform<a href
 
 ```
 
-# [Investigate further!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
+# [Investigate further!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
 
 * Read the <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">press release</a> of the Austrian Agency for Health and Food Safety about epidemiological "investigation" and COVID-19 clusters in Austria.
 
@@ -114,7 +114,7 @@ Image source: KwaZulu‐Natal Research Innovation and Sequencing Platform<a href
 <font size="4">If you want to understands why we sequence SARS-CoV-2 samples and how we draw a phylogenetic tree, explore our other narratives on the <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>
 
 
-  # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
+  # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?d=map&p=full)
 
   * We gratefully appreciate the community resources and tools provided by the <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a>[1] which helped us to conduct our phylogenetic analysis and share our results with you.
   * We also thank the <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a>[2] for providing access to thousands of SARS-CoV-2 sequences that we were able use for this analysis.
@@ -130,7 +130,7 @@ Image source: KwaZulu‐Natal Research Innovation and Sequencing Platform<a href
     * Institute for Research in Biomedicine (IRB), Barcelona, Spain: Miguel Grau, Francisco Martinez, Nuria Lopez-Bigas, Oriol Pich
     * Department of Theoretical Chemistry, University of Vienna: Michael T. Wolfinger
 
-# [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
+# [Citations](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?d=map&p=full)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics. 2018;34(23):4121-4123.
 

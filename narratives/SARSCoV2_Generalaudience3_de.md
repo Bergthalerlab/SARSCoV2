@@ -61,7 +61,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Da jedoch zahlreiche Proben exakt die gleiche Version des Virus enthalten (alle Proben auf der senkrechten Linie), ist uns eine genaue Ableitung der dazwischenliegenden Übertragungswege ohne Unterstützung durch das Contact Tracing nicht möglich.
 
-# [Contact Tracing und Deep Sequencing ergänzen einander (Fortsetzung)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
+# [Contact Tracing und Deep Sequencing ergänzen einander (Fortsetzung)](ttps://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=gt-nuc_20457&d=tree&label=clade:Vienna1&m=div&p=full)
 
 * Der Baum ist nun durch die Mutationen im viralen Genom bunt gefärbt. Sie sehen, dass drei dem AL-Cluster zugeordnete PatientInnen eine weiter mutierte Variante des Virus hatten, hier gelb dargestellt.
 
@@ -71,7 +71,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Zum Beispiel war unklar, wie sich PatientIn CeMM0187 angesteckt hatte. Nun zeigen Sequenzierungsdaten eine enge Verbindung zwischen dieser Probe und jenen Personen auf, die an der mit dem AL-Cluster in Verbindung stehenden Veranstaltung teilgenommen haben.
 
-# [Warum ist es so wichtig, die Infektionsquelle zu kennen?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree&f_country=Austria&m=div&p=full)
+# [Warum ist es so wichtig, die Infektionsquelle zu kennen?](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
 
 * In Österreich wurde etwa die Hälfte aller COVID-19-Fälle erfolgreich einem Cluster zugeordnet.<a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
 
@@ -100,7 +100,7 @@ IBildquelle: KwaZulu‐Natal Research Innovation and Sequencing Platform.<a href
 
 ```
 
-# [Recherchieren Sie weiter!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
+# [Recherchieren Sie weiter!](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=location&d=tree,map&f_country=Austria&m=div&p=full)
 
 * Lesen Sie die <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">Pressemeldung</a> der Österreichischen Agentur für Gesundheit und Ernährungssicherheit über epidemiologische "Ermittlungen" und die COVID-19-Cluster in Österreich.
 
@@ -116,7 +116,7 @@ IBildquelle: KwaZulu‐Natal Research Innovation and Sequencing Platform.<a href
 <font size="4">Wenn Sie verstehen möchten, warum wir SARS-CoV-2-Proben sequenzieren und wie wir einen phylogenetischen Baum zeichnen, besuchen Sie unseren anderen Blog auf der <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>.
 
 
-  # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
+  # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?d=map&p=full)
 
 * Wir danken dem <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] für die bereitgestellten Community Ressourcen und Tools, die uns geholfen haben, unsere phylogenetische Analyse durchzuführen und unsere Ergebnisse mit Ihnen zu teilen.
 * Wir bedanken uns auch bei der <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] für die Bereitstellung der 8.000 SARS-CoV-2-Sequenzen, die wir für diese Analyse einsetzen durften.
@@ -132,7 +132,7 @@ IBildquelle: KwaZulu‐Natal Research Innovation and Sequencing Platform.<a href
     * Institut für Forschung in der Biomedizin (IRB), Barcelona, ​​Spanien: Miguel Grau, Francisco Martinez, Nuria Lopez-Bigas, Oriol Pich
     * Institut für Theoretische Chemie, Universität Wien: Michael T. Wolfinger
 
-# [Zitate](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
+# [Zitate](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?d=map&p=full)
 
 1. Hadfield, J., C. Megill, S. M. Bell, J. Huddleston, B. Potter, C. Callender, P. Sagulenko, T. Bedford, and R. A. Neher. [Nextstrain: real-time tracking of pathogen evolution](https://doi.org/10.1093/bioinformatics/bty407), Bioinformatics. 2018;34(23):4121-4123.
 
