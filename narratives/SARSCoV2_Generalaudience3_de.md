@@ -42,11 +42,14 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In einigen Fällen war es jedoch nicht möglich, die Infektionsquelle zu identifizieren (graue Proben).
 
+# [Epidemiologische „Detektive“ (Fortsetzung)](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
+
 *  In unserem <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Generalaudience2_en" target="_ blank">zweiten interaktiven Blog</a>, haben wir Ihnen ein Beispiel für eine größere lokale Übertragung des Virus mit Konzentration in Wien (Österreich) gezeigt.
 
 * In dieser Gruppe von Infektionen ordneten unsere Kollegen der AGES alle sequenzierten Proben, mit Ausnahme von sieben PatientInnen (graue Proben), zwei epidemiologischen Clustern zu: „A“ (lila Proben) und „AL“ (blaue Proben).
 
 * Wenn Sie mit Ihrer Maus über eine Probe fahren, werden Ihnen dazu weitere Informationen angezeigt, z. B. zu welchem Cluster sie gehört.
+
 
 # [Contact Tracing und Deep Sequencing ergänzen einander](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
