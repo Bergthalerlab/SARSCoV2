@@ -8,15 +8,15 @@ dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/Nextstrain
 abstract: "
 In Österreich arbeiten EpidemiologInnen und BiologInnen gemeinsam an der Entschlüsselung der Übertragungswege von COVID-19. Wo sich Contact Tracing als unmöglich erweist, kann die Sequenzierung helfen, und wo viele Sequenzen identisch sind, kann Contact Tracing über den Ursprung einer Infektion mehr Aufschluss geben.
 
-SARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutationsdynamik von SARS-CoV-2 in Österreich</a> hat CeMM in Zusammenarbeit mit der Medizinischen Universität Wien bislang 305 aus österreichischen COVID-19-PatientInnen isolierte virale Genome sequenziert, und die genomischen Daten wurden in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Diese Woche konzentrieren wir uns auf die Frage, wie die Kombination von Sequenzierung und Contact Tracing gegen COVID-19 zum Einsatz kommen kann."
+SARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts <a href='https://cemm.at/research/sars-cov-2-at/about/' target='_ blank'>Mutationsdynamik von SARS-CoV-2 in Österreich</a> hat CeMM in Zusammenarbeit mit der Medizinischen Universität Wien bislang 305 aus österreichischen COVID-19-PatientInnen isolierte virale Genome sequenziert. Die genomischen Daten wurden in eine weltweite Karte von SARS-CoV-2-Mutationen integriert. Diese Woche konzentrieren wir uns auf die Frage, wie die Kombination von Sequenzierung und Contact Tracing gegen COVID-19 zum Einsatz kommen kann."
 ---
 
 
 # [Über den Virus, Mutationen und phylogenetische Bäume](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full)
 
-* Ein Virusteilchen besteht aus einem langen RNA-Genom, das in einer Lipidmembran eingeschlossen sämtliche für seine eigene Herstellung erforderlichen Informationen versteckt gespeichert hat. Beim Kopieren dieses aus knapp 30.000 Nukleotiden oder "Buchstaben" bestehenden Codes kommt es unweigerlich zu "Tippfehlern" – Mutationen.
+* Ein Virusteilchen besteht aus einem langen RNA-Genom, das in einer Lipidmembran eingeschlossen ist und sämtliche für seine eigene Herstellung erforderlichen Informationen trägt. Beim Kopieren dieses aus knapp 30.000 Nukleotiden oder "Buchstaben" bestehenden genetischen Codes kommt es unweigerlich zu "Tippfehlern" – Mutationen.
 
-* Verschiedene mutierte Versionen des Virus zirkulieren in der Bevölkerung, und durch die Bestimmung der Mutationen im Genom können wir entschlüsseln, welche von ihnen eng miteinander verwandt sind. Mit ihrer Hilfe können wir einen phylogenetischen Baum zeichnen, sprich einen Stammbaum der verschiedenen Virusvarianten.
+* Verschiedene mutierte Versionen des Virus zirkulieren in der Bevölkerung. Durch die Bestimmung der Mutationen im Virusgenom können wir entschlüsseln, welche von ihnen eng miteinander verwandt sind. Mit diesem Wissen können wir einen phylogenetischen Baum zeichnen, sprich einen Stammbaum der verschiedenen Virusvarianten.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -25,7 +25,7 @@ SARS-CoV-2 ist das Coronavirus, das COVID-19 verursacht. Im Rahmen des Projekts 
 <img width="800px" alt="3D medical animation still shot showing the structure of a coronavirus" src="https://www.scientificanimations.com/wp-content/uploads/2020/01/3D-medical-animation-coronavirus-structure.jpg"/>
 </p>
 <h1 style="font-size="+1">Eine Einführung zu SARS-CoV-2, viralen Mutationen und phylogenetischen Bäumen finden Sie in unserem <a href="https://nextstrain.org/community/narratives/bergthalerlab/SARSCoV2/Introduction_de " target="_ blank">einleitenden Blog.</a></h1>
-Für eine bessere Benutzererfahrung empfehlen wir, dieses Blogs auf einem Computer, statt auf einem Smartphone zu visualisieren.
+Für eine bessere Darstellung empfehlen wir, diesen Blog auf einem Computer, statt auf einem Smartphone zu visualisieren.
 
 Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target="_ blank">scientificanimations</a>
 </div>
@@ -34,9 +34,9 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Epidemiologische „Detektive“](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Epidemiologen der <a href="https://www.ages.at" target="_ blank">AGES</a>, (Österreichische Agentur für Gesundheit und Ernährungssicherheit) arbeiten mit detektivischem Scharfsinn daran, die genauen Übertragungswege von COVID-19 von Mensch zu Mensch zu untersuchen.
+* Epidemiologen der <a href="https://www.ages.at" target="_ blank">AGES</a>, (Österreichische Agentur für Gesundheit und Ernährungssicherheit) arbeiten mit detektivischem Spürsinn daran, die exakten Übertragungswege von COVID-19 von Mensch zu Mensch zu untersuchen.
 
-* Wird jemand positiv auf SARS-CoV-2 getestet, erfolgt ein genaues Contact Tracing, mit dem Ziel, die Quelle der Infektion und mögliche Folgefälle zu ermitteln.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
+* Wird jemand positiv auf SARS-CoV-2 getestet, erfolgt ein genaues Contact Tracing, mit dem Ziel, den Ursprung der Infektion und mögliche Folgefälle zu ermitteln.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
 
 * Dies ermöglicht eine Zuordnung der PatientInnen zu Übertragungsclustern: Gruppen von SARS-CoV-2-Fällen gemeinsamen Ursprungs. Verschiedene Cluster sind in der Grafik in verschiedenen Farben dargestellt.
 
@@ -53,9 +53,9 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 # [Contact Tracing und Deep Sequencing ergänzen einander](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?branchLabel=clade&c=ClusterID&d=tree&label=clade:Vienna1&m=div&p=full)
 
-* Erwartungsgemäß haben Menschen, die sich bei derselben Quelle anstecken, dieselbe SARS-CoV-2-Version, möglicherweise mit zusätzlichen Mutationen, die sich anhäufen, während sich der Virus in den PatientInnen vervielfältigt.
+* Erwartungsgemäß haben Menschen, die sich bei derselben Quelle anstecken, dieselbe SARS-CoV-2-Version, möglicherweise mit zusätzlichen Mutationen, die sich häufen, während sich der Virus in den PatientInnen vervielfältigt.
 
-* Mit Hilfe von Sequenzierungstechnologien konnten wir bestätigen, dass alle sequenzierten Mitglieder des A-Clusters entweder direkt oder indirekt kontakt miteinander hatten.
+* Mit Hilfe von Sequenzierungstechnologien konnten wir bestätigen, dass alle sequenzierten Mitglieder des A-Clusters entweder direkt oder indirekt Kontakt miteinander hatten.
 
 * Zudem konnten wir eine Verbindung zwischen dem epidemiologischen A-Cluster und dem kleineren AL-Cluster herstellen, die mit einer sozialen Veranstaltung in Zusammenhang steht.
 
@@ -75,7 +75,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * In Österreich wurde etwa die Hälfte aller COVID-19-Fälle erfolgreich einem Cluster zugeordnet.<a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
 
-* MDie meisten Cluster wurden mit Freizeitaktivitäten und mit einer Virusübertragung im häuslichen Umfeld in Verbindung gebracht. <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
+* Die meisten Cluster wurden mit Freizeitaktivitäten und mit einer Virusübertragung im häuslichen Umfeld in Verbindung gebracht. <a href="https://www.ages.at/service/service-presse/pressemeldungen/epidemiologische-abklaerung-am-beispiel-covid-19/" target="_ blank">[4]</a>
 
 * Dies liefert wichtige Informationen darüber, wie sich der Virus ausbreitet, was für Entscheidungsträger eine wertvolle Information darstellt.
 
@@ -113,12 +113,12 @@ IBildquelle: KwaZulu‐Natal Research Innovation and Sequencing Platform.<a href
   * durch Hinunterscrollen und Klick auf die Ortsbezeichnung unter der Karte nach Proben zu filtern, die an unterschiedlichen Standorten entnommen wurden.  
 
 <p>
-<font size="4">Wenn Sie verstehen möchten, warum wir SARS-CoV-2-Proben sequenzieren und wie wir einen phylogenetischen Baum zeichnen, entdecken Sie unseren anderen Blog auf der <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>.
+<font size="4">Wenn Sie verstehen möchten, warum wir SARS-CoV-2-Proben sequenzieren und wie wir einen phylogenetischen Baum zeichnen, besuchen Sie unseren anderen Blog auf der <a href="https://cemm.at/research/sars-cov-2-at/visualizations/" target="_ blank">CeMM website</a>!</font>.
 
 
   # [Credits & Acknowledgements](https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?d=map&p=full)
 
-* Wir danken dem <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] für die bereitgestellten Ressourcen, Tools und der Gemeinschaft, die uns geholfen haben, unsere phylogenetische Analyse durchzuführen und unsere Ergebnisse mit Ihnen zu teilen.
+* Wir danken dem <a href="https://nextstrain.org/" target="_ blank">Nextstrain project</a> [1] für die bereitgestellten Community Ressourcen und Tools, die uns geholfen haben, unsere phylogenetische Analyse durchzuführen und unsere Ergebnisse mit Ihnen zu teilen.
 * Wir bedanken uns auch bei der <a href="https://www.gisaid.org/" target="_ blank">GISAID initiative</a> [2] für die Bereitstellung der 8.000 SARS-CoV-2-Sequenzen, die wir für diese Analyse einsetzen durften.
 * Unser Dank gilt auch unseren wissenschaftlichen KooperationspartnerInnen vom Zentrum für Virologie der Medizinischen Universität Wien, dem Institut für Virologie der Medizinischen Universität Innsbruck und der Österreichischen Agentur für Gesundheit und Ernährungssicherheit (AGES) für die Bereitstellung der Proben von PatientInnen sowie dem Wiener Wissenschafts- und Technologiefonds (WWTF) für die finanzielle Unterstützung dieses Projekts.
     * CeMM: Benedikt Agerer, Laura Alvarez, Andreas Bergthaler, Christoph Bock, Henrique Colaço, Anita Ender, Jakob-Wendelin Genger, Zsofia Keszei, Jan Laine, Alexander Lercher, Bobby Rajesh Malhotra, Alexandra Popa, Michael Schuster, Martin Senekowitsch, Mark Smyth, Giulio Superti-Furga, Thomas Winkler-Penz
