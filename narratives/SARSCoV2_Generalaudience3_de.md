@@ -36,7 +36,7 @@ Bildnachweis: <a href="https://www.scientificanimations.com/wiki-images/" target
 
 * Epidemiologen der <a href="https://www.ages.at" target="_ blank">AGES</a>, (Österreichische Agentur für Gesundheit und Ernährungssicherheit) arbeiten mit detektivischem Scharfsinn daran, die genauen Übertragungswege von COVID-19 von Mensch zu Mensch zu untersuchen.
 
-* * Wird jemand positiv auf SARS-CoV-2 getestet, erfolgt ein genaues Contact Tracing, mit dem Ziel, die Quelle der Infektion und mögliche Folgefälle zu ermitteln.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
+* Wird jemand positiv auf SARS-CoV-2 getestet, erfolgt ein genaues Contact Tracing, mit dem Ziel, die Quelle der Infektion und mögliche Folgefälle zu ermitteln.<a href="https://www.sozialministerium.at/dam/jcr:3cab84f4-126f-46fc-9120-34fcfc463450/Beh%C3%B6rdliche%20Vorgangsweise%20bei%20SARS-CoV-2%20Kontaktpersonen_Kontaktpersonennachverfolgung%20(Stand%2014.04.2020)_FINAL.pdf" target="_ blank">[3]</a>
 
 * Dies ermöglicht eine Zuordnung der PatientInnen zu Übertragungsclustern: Gruppen von SARS-CoV-2-Fällen gemeinsamen Ursprungs. Verschiedene Cluster sind in der Grafik in verschiedenen Farben dargestellt.
 
