@@ -4,7 +4,7 @@ authors: "Zsofia Keszei, Jakob-Wendelin Genger, Laura Alvarez, Andreas Bergthale
 authorLinks: "https://cemm.at/en/research/groups/andreas-bergthaler-group/"
 affiliations: "CeMM Forschungszentrum für Molekulare Medizin der Österreichischen Akademie der Wissenschaften"
 date: "Juli 31, 2020"
-dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav20?c=location&d=map&dmin=2020-01-11&f_country=Austria&p=full"
+dataset: "https://nextstrain.org/community/jgenger/SARS-CoV-2-project/NextstrainAustriav19wIDs?c=region&d=map&f_country=Austria&p=full"
 abstract: "
 In Österreich arbeiten EpidemiologInnen und BiologInnen gemeinsam an der Entschlüsselung der Übertragungswege von COVID-19. Wo sich Contact Tracing als unmöglich erweist, kann die Sequenzierung helfen, und wo viele Sequenzen identisch sind, kann Contact Tracing über den Ursprung einer Infektion mehr Aufschluss geben.
 
